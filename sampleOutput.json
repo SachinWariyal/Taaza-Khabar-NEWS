@@ -1,0 +1,72 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+    
+    {
+    "source": {
+    "id": null,
+    "name": "Inside.com.tw"
+    },
+    "author": "Anny",
+    "title": "蘋果 Q1 財報：這是疫情以來，第一次營收下滑",
+    "description": "蘋果 CEO 庫克表示，三個因素影響了業績表現包含：美元升值、iPhone 14 Pro 和 iPhone 14 Pro Max 在中國生產問題，以及整體經濟環境。",
+    "url": "https://www.inside.com.tw/article/30602-apple-reports-2023-first-quarter-results",
+    "urlToImage": "https://bucket-img.tnlmedia.com/cabinet/2023/02/fd4e1e58-c102-47f6-b5ec-d2ee6a37957e.jpg?auto=compress&fit=crop&h=630&w=1200",
+    "publishedAt": "2023-02-03T01:25:00Z",
+    "content": "2022 12 31 Q1 \r\n 5% 4%\r\n CEO iPhone 14 Pro iPhone 14 Pro Max  \r\n Q1 \r\n<ul><li>EPS1.88 1.94 10.9%</li><li>1171.5 1211.0 5.49%</li><li>iPhone 657.8 682.9 8.17%</li><li>Mac 77.4 96.3 28.66%</li><li>iPad… [+274 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Karapaia.com"
+    },
+    "author": "uulala",
+    "title": "ロンドンのポラード（車止め）には19世紀の大砲が使われている件",
+    "description": "#authors_store {font-family: -apple-system,BlinkMacSystemFont,Roboto,\"游ゴシック体\",YuGothic,\"Yu Gothic Medium\",sans-serif;}#authors_store .article-header .article-title {font-size: 19px;line-height: 1.3;}#authors_store .content > header {position: relat...",
+    "url": "https://karapaia.com/archives/52319845.html",
+    "urlToImage": "https://livedoor.blogimg.jp/karapaia_zaeega/imgs/d/6/d68e7a2a.jpg",
+    "publishedAt": "2023-02-03T10:00:20Z",
+    "content": "Spotted these two uprooted bollards by London Bridge today. You can clearly see that they are in fact sneakily disguised, recycled, upended cannon barrels! pic.twitter.com/We1dP01S1F\r\n— Living London… [+53 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ascii.jp"
+    },
+    "author": "ASCII",
+    "title": "空白のストーリーを振り返る！「iPhone 14 Pro Max」の爆速処理で13章狩りが快適に【『DQウォーク』プレイ日記#26】",
+    "description": "スクウェア・エニックスが配信するスマホ向け位置情報ゲーム『ドラゴンクエストウォーク』のプレイ日記第26回をお届け。今回は公開されたばかりのメインストーリー第13章の進捗と、Apple製スマホ「iPhone 14 Pro Max」を使ってプレイした際の快適度を紹介。",
+    "url": "https://weekly.ascii.jp/elem/000/004/123/4123301/",
+    "urlToImage": "https://ascii.jp/img/2023/02/02/3487425/l/5a8069a2154ce17d.jpg",
+    "publishedAt": "2023-02-03T02:00:00Z",
+    "content": "13……\r\nDQ26\r\n202313113AppleiPhone 14 Pro Max\r\n20232141459\r\n10\r\n1320224712202291210273 1213\r\n123\r\n313\r\n135\r\nS1S4S\r\n……30\r\n24005KM2\r\n1363\r\nHP60\r\n……\r\nKM210020030 ……iPhone 14 Pro Max\r\n3.5"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Businessinsider.de"
+    },
+    "author": "Pamela Rauleder",
+    "title": "Deep-Tech: Eine Milliarde Euro für Zukunftstechnologien",
+    "description": "Der DeepTech & Climate Fonds unterstützt Technologie-Champions der Zukunft. Außerdem: Rekordtag für die Meta-Aktie und Apple, Alphabet und Amazon legen enttäuschende Quartalszahlen vor.",
+    "url": "https://www.businessinsider.de/gruenderszene/business/deep-tech-eine-milliarde-euro-fuer-zukunftstechnologien/",
+    "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2023/02/GettyImages-1235250993.jpg?ver=1675387635",
+    "publishedAt": "2023-02-03T04:55:00Z",
+    "content": "Der DeepTech &amp; Climate Fonds unterstützt Technologie-Champions der Zukunft. Außerdem: Rekordtag für die Meta-Aktie und Apple, Alphabet und Amazon legen enttäuschende Quartalszahlen vor.\r\nGuten Mo… [+5665 chars]"
+    },
+    {
+    "source": {
+    "id": "il-sole-24-ore",
+    "name": "Il Sole 24 Ore"
+    },
+    "author": "di Marco Valsania",
+    "title": "Big Tech, un trimestre di delusioni che mette in discussione un’epoca",
+    "description": "Conti sotto pressione per Apple, Alphabet e Amazon. Che hanno completato tre mesi di bufera sui leader del settore: 65 miliardi di utili tra cali e incognite",
+    "url": "https://www.ilsole24ore.com/art/big-tech-trimestre-delusioni-che-mette-discussione-un-epoca-AEwMbUgC",
+    "urlToImage": "https://i2.res.24o.it/images2010/2023/02/AEwMbUgC/images/8c27eaaa-98b1-11ed-af6b-e40be815b7b6-fotohome0.jpg",
+    "publishedAt": "2023-02-03T06:19:12Z",
+    "content": "Ascolta la versione audio dell'articolo\r\n7' di lettura\r\nPotrebbe essere ricordato come il giorno delle grandi delusioni. Simbolo stesso della fine dun epoca da boom e di una nuova stagione di pressio… [+359 chars]"
+    }
+    ]
+    }
