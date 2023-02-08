@@ -13,11 +13,11 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Router>
+        <Router basename='Taaza-Khabar-NEWS'>
         <Navbar/>
         {/* <News/> */}
         <Switch>
-          <Route exact path="/"> <News key="general" pageSize={6} country = "in" category ="general" /> </Route>
+          <Route exact path="/Taaza-Khabar-NEWS"> <News key="general" pageSize={6} country ="in" category ="general" /> </Route>
           <Route exact path="/bussiness"> <News key="bussiness" pageSize={6} country = "in" category ="bussiness" /> </Route>
           <Route exact path="/entertainment"> <News key="entertainment" pageSize={6} country = "in" category ="entertainment" /> </Route>
           <Route exact path="/sports"> <News key="sports" pageSize={6} country = 'in' category ='sports' /> </Route>
